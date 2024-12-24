@@ -5,4 +5,4 @@ num2 = float(input("Please enter the second number :  "))
 avg = (num1 + num2) / 2
 
 print('The nums are ',num1,' and ',num2 )
-print('The average is :  ', avg)
+print('The average is :  ', avg) 
